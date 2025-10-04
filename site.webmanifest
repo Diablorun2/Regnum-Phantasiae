@@ -1,0 +1,19 @@
+{
+  "name": "Regnum Phantasiae",
+  "short_name": "Regnum",
+  "icons": [
+    {
+      "src": "Diablorun_Logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Diablorun_Logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
